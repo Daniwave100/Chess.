@@ -2,7 +2,7 @@
 
 ## 🎯 Background
 
-This is a slightly modified chess game that is played in the console/terminal. I wanted to build something more complex than my previous projects while also deepening my understanding of object-oriented programming (OOP). This project served as a great learning experience in Java before taking a university course on the language.
+This is a slightly modified chess game that is played in the console/terminal. I wanted to build something more complex than my previous projects while also deepening my understanding of object-oriented programming (OOP). This project served as a great learning experience in Java before taking a university course in the language.
 
 ## 🕹️ How to Play
 
