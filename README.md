@@ -10,6 +10,7 @@ This is a slightly modified chess game that is played in the console/terminal. I
 - 2️⃣ Select and move a piece using the grid coordinate system (e.g., e2, d1, a2)
 - 3️⃣ The game ends when the player or bot captures the king piece
 
+
 ## ♜ Chess Piece Logic
 
 - ♙ Pawns – Move one square forward, capture one square diagonally
